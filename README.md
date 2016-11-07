@@ -1,1 +1,3 @@
-# Python-RSS-Extract
+# Python-URL-Extract
+
+A python script to extract URLs from URLs.
